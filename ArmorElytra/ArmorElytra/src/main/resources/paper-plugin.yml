@@ -1,0 +1,8 @@
+name: ArmorElytra
+version: 1.1-SNAPSHOT
+main: com.example.armorelytra.AnvilCombineListener
+api-version: 1.21
+description: A plugin that adds armor functionality to Elytra.
+authors:
+  - Mysterio
+website: https://slcyk.com
