@@ -1,0 +1,10 @@
+# Configuration file for the ArmorElytra plugin
+
+# Enable or disable the plugin's functionality
+enabled: true
+
+# Custom messages
+messages:
+  success: "You have successfully combined your chestplate with an elytra!"
+  not_enough_xp: "You do not have enough experience to combine these items."
+  invalid_combination: "You can only combine a chestplate with an elytra."
