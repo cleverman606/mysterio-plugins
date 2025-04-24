@@ -1,0 +1,8 @@
+name: ArmorElytra
+version: 1.0
+main: com.example.armorelytra.ArmorElytra
+api-version: 1.21
+description: A plugin that allows players to combine a chestplate with an elytra in an anvil.
+author: Mysterio
+commands: {}
+permissions: {}
