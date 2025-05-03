@@ -1,0 +1,21 @@
+plugins {
+    id 'java'
+}
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+    maven {
+        url = 'https://repo.papermc.io/repository/maven-public/' // Add PaperMC repository
+    }
+}
+
+dependencies {
+    implementation 'org.spigotmc:spigot-api:1.20.1-R0.1-SNAPSHOT' // Use the latest available version
+}
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(11) // Set to Java 11
+    }
+}
