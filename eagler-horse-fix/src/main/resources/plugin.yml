@@ -1,0 +1,6 @@
+name: EaglerHorseFix
+author: Mysterio
+version: 1.0.0
+main: com.eaglerfix.EaglerHorseFix
+description: Fix broken horses on eaglercraft servers.
+api-version: 1.20
