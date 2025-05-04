@@ -1,0 +1,7 @@
+name: EaglerBoatFix
+version: 1.1
+author: YourName
+description: Fixes the boat movement glitch for Eaglercraft players.
+main: com.example.eaglerboatfix.EaglerBoatFixPlugin
+api-version: 1.20
+softdepend: ["1.21.4"]
